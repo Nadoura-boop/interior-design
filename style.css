@@ -539,6 +539,7 @@ footer .sidea{
 footer .sidea img {
  width: 177px;
  height: 48px;
+filter: invert();
 }
 footer .sidea p{
     width: 322px;
